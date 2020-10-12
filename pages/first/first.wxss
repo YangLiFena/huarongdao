@@ -27,7 +27,6 @@ page {
 .t1{
   color: rgb(236, 147, 147);
   font-size: 120rpx;
-  font-family:宋体;
   font: weight 500;
   margin-top: 340rpx;
 
