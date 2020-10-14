@@ -27,7 +27,6 @@ page {
 .t1{
   color: rgb(236, 147, 147);
   font-size: 120rpx;
-  font-family:宋体;
   font: weight 500;
   margin-top: 340rpx;
 
@@ -35,14 +34,12 @@ page {
 .start{
     color: rgb(211, 149, 175);
     opacity:0.9;
-    /*background-color:#e5eaeb;*/
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     width: 380rpx;
     height: 90rpx;
     font-size: 60rpx;
     font-weight: 600;
     margin-top: 100rpx;
-    /*border-radius:1000;*/
 }
 
 
